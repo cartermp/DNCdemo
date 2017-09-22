@@ -1,0 +1,6 @@
+/Users/phillip/scratch/DNCdemo/FSLib/bin/Debug/netstandard2.0/FSLib.deps.json
+/Users/phillip/scratch/DNCdemo/FSLib/bin/Debug/netstandard2.0/FSLib.dll
+/Users/phillip/scratch/DNCdemo/FSLib/bin/Debug/netstandard2.0/FSLib.pdb
+/Users/phillip/scratch/DNCdemo/FSLib/obj/Debug/netstandard2.0/FSLib.fsproj.CoreCompileInputs.cache
+/Users/phillip/scratch/DNCdemo/FSLib/obj/Debug/netstandard2.0/FSLib.dll
+/Users/phillip/scratch/DNCdemo/FSLib/obj/Debug/netstandard2.0/FSLib.pdb

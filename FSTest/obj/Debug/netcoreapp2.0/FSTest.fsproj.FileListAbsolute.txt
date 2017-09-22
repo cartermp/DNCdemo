@@ -1,0 +1,13 @@
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSTest.deps.json
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSTest.runtimeconfig.json
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSTest.runtimeconfig.dev.json
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSTest.dll
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSTest.pdb
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSLib.dll
+/Users/phillip/scratch/DNCdemo/FSTest/bin/Debug/netcoreapp2.0/FSLib.pdb
+/Users/phillip/scratch/DNCdemo/FSTest/obj/Debug/netcoreapp2.0/FSTest.fsproj.CoreCompileInputs.cache
+/Users/phillip/scratch/DNCdemo/FSTest/obj/Debug/netcoreapp2.0/FSTest.dll
+/Users/phillip/scratch/DNCdemo/FSTest/obj/Debug/netcoreapp2.0/FSTest.pdb
